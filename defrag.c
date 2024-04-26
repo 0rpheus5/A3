@@ -82,6 +82,7 @@ void * concatenate_files(void * path) {
   return NULL;
 }
 
+
 int main(int argc, char * argv[]) {
   // Check for the correct number of arguments
   if (argc != 3) {
